@@ -5,7 +5,7 @@ public class Project1_Mohammad_Dawud
       {
           Scanner keyboard = new Scanner(System.in);
           
-          System.out.print("Please enter the Policy Number: ");
+          System.out.print("Please  enter the Policy Number: ");
           int policyNumber = keyboard.nextInt();
            keyboard.nextLine();
           
